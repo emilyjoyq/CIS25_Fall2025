@@ -1,5 +1,7 @@
 // Jewelry Inventory Program 
-Allows a user to store and view jewelry inventory items. Each item has a name and a quantity. The items are saved in a text file (items.txt), and the program can read the file back to show alll saved inventory. 
+- Allows a user to store and view jewelry inventory items
+- Each item has a name and a quantity
+- The items are saved in a text file (items.txt) and the program can read the file back to show alll saved inventory. 
 
 // How It Works 
 The program defines a class called Item, representing a jewelry item. 
