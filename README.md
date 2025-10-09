@@ -5,4 +5,4 @@
 - User is asked to enter an item ID to search for
 - Program uses binary search to quickly find the matching item in the list
 - If the item is found, it displays the item's name & ID or tells the user it doesn't exist if item isn't found
-- 
+
