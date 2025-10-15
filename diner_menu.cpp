@@ -1,5 +1,9 @@
 #include <iostream>
 #include <string>
+#include <limits>
+#include <cstdlib>
+#include <cctype>
+#include <iomanip>
 using namespace std;
 
 // Show the menu choices
