@@ -1,0 +1,3 @@
+2025-11-05 22:36:37  Deposit   +$500.00   Balance: $500.00   Note: Initial deposit
+2025-11-05 22:36:37  Purchase  -$6.25   Balance: $493.75   Note: Coffee
+2025-11-05 22:36:37  Purchase  -$120.49   Balance: $373.26   Note: Textbook
